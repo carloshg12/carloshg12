@@ -17,6 +17,8 @@ I'm Carlos, a developer from Spain.
 - 💽 MySQL, SQL, Mongo
 + a lot more :D
 
+[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshg12)](https://github.com/anuraghazra&hide=contribs,prs)
+
 ## Contact
 - [marton.lederer.hu](https://marton.lederer.hu)
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter

@@ -1,31 +1,31 @@
 ### Hi there 👋
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/carloshg12/ProjectAssets/blob/main/Profile/banner.PNG?raw=true" alt="Carlos Hernandez" />
 </h1>
 
 ## Hey! 👋
-I'm Carlos, a developer from Spain.
+I'm Carlos, a multi-platform application developer from Spain.
 
-- 🔭 I’m currently working on my TFG
-- 🌱 I’m currently learning React Native and React
-
-+ a lot more ;)
+- 🔭 I’m currently working on my final degree project.
+- 🌱 I’m currently deepening my knowledge in React Native and exploring more about React.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, etc...
-- ⚙️ React, React Native, Java, Kotlin.
-- 💽 MySQL, SQL, Mongo
-+ a lot more :D
+- 👨‍💻 TypeScript, JavaScript, Kotlin, PHP, Java.
+- ⚙️ React, React Native, Firebase.
+- 💽 MySQL, MariaDB, PostgreSQL.
+- 🌍 Experienced in cross-platform development.
 
-[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshg12)](https://github.com/anuraghazra&hide=contribs,prs)
+## My GitHub Stats
+[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshg12)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs)
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Email](mailto:carlos.hernandez@example.com)
+<!--
+- [@carloshg12](https://twitter.com/carloshg12) on Twitter
+- [LinkedIn Profile](https://www.linkedin.com/in/carlos-hernandez/)
+-->
 <!--
 **carloshg12/carloshg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

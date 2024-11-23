@@ -6,7 +6,7 @@
 ## Hey! 👋
 I'm Carlos, a multi-platform application developer from Spain.
 
-- 🔭 I’m currently working on my final degree project.
+- 🔭 I’m currently studying Computer Engineering.
 - 🌱 I’m currently deepening my knowledge in React Native and exploring more about React.
 
 ## Skills

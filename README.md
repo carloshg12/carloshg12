@@ -3,37 +3,60 @@
   <img src="https://github.com/carloshg12/ProjectAssets/blob/main/Profile/banner.PNG?raw=true" alt="Carlos Hernandez" />
 </h1>
 
-## Hey! 👋
-I'm Carlos, a multi-platform application developer from Spain.
+## About Me  
+I'm Carlos, a **Computer Engineering student at UJI** and a **multi-platform application developer** passionate about building intuitive and efficient software solutions.  
 
-- 🔭 I’m currently studying Computer Engineering.
-- 🌱 I’m currently deepening my knowledge in React Native and exploring more about React.
+- 🎓 Currently studying **Computer Engineering at UJI**.  
+- 🔭 Working on mobile and web applications.  
+- 🌱 Expanding my expertise in **React Native**, **React**, and **backend development**.  
+
+
+---
+
+## 🚀 Featured Project: **SplitEasy - Gastos Compartidos**
+**SplitEasy** is a cross-platform application available for Android and iOS, designed to simplify shared expense management among friends, family, or roommates. Developed using **React Native** for the frontend and **PHP** for the backend, it offers an intuitive and functional user experience.
+
+### Key Features:
+- **Group Management**: Create groups to track shared expenses for trips, activities, or living arrangements.
+- **Automatic Expense Splitting**: Transparent and automatic division of expenses.
+- **Custom Notifications**: Keep users informed with personalized notifications.
+- **Light/Dark Mode**: Enhanced visual comfort with theme options.
+- **Advanced Editing**: Flexible expense adjustments with a focus on security and privacy.
+
+### Technologies Used:
+- **Frontend**: React Native, JavaScript, TypeScript.
+- **Backend**: PHP, MySQL.
+- **Tools**: PhpMyAdmin, Firebase (for notifications), Git.
+
+### Links:
+🔗 [Visit the Website](https://spliteasy.es) | 📱 [Download on App Store](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253) | 🤖 [Get it on Google Play](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253)  
+
+---
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Kotlin, PHP, Java.
-- ⚙️ React, React Native, Firebase.
-- 💽 MySQL, MariaDB, PostgreSQL.
-- 🌍 Experienced in cross-platform development.
+- **Programming Languages**: TypeScript, JavaScript, Kotlin, PHP, Java.
+- **Frameworks & Libraries**: React, React Native, Firebase.
+- **Databases**: MySQL, MariaDB, PostgreSQL.
+- **Other**: Cross-platform development, UI/UX design, Push Notifications.
+
+---
 
 ## My GitHub Stats
-[![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshg12)](https://github.com/anuraghazra/github-readme-stats&hide=contribs,prs)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=carloshg12&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshg12&layout=compact&theme=radical&card_width=400" />
+  </a>
+</div>
+---
 
-## Contact
+## 📫 Contact
 - [Email](mailto:carloscharlyhg0@gmail.com)
-<!--
-- [@carloshg12](https://twitter.com/carloshg12) on Twitter
-- [LinkedIn Profile](https://www.linkedin.com/in/carlos-hernandez/)
--->
-<!--
-**carloshg12/carloshg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+- [LinkedIn](https://www.linkedin.com/in/carlos-hernandez-27342924b/)
+<!-- - [Twitter](https://twitter.com/carloshg12) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 😄

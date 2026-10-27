@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">
-  <img src="https://github.com/carloshg12/ProjectAssets/blob/main/Profile/banner.PNG?raw=true" alt="Carlos Hernandez" />
+  <img src="https://raw.githubusercontent.com/carloshg12/carloshg12/main/banner.PNG" alt="Carlos Hernandez" />
 </h1>
 
 ## About Me  

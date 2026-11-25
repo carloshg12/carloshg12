@@ -14,7 +14,7 @@ The source code is private.
 
 ### Also on my GitHub
 
-- **[Pokedex_Android](https://github.com/carloshg12/Pokedex_Android):** Android app in Kotlin with MVVM, Hilt and Retrofit that also works offline.
+- **[Pokedex_Android](https://github.com/carloshg12/Pokedex_Android):** Android app in Kotlin and Jetpack Compose with MVVM, Hilt and Retrofit (PokéAPI) that also works offline.
 
 ### Background
 
@@ -24,7 +24,7 @@ The source code is private.
 ### Tech
 
 **Languages:** Java&nbsp;· Python&nbsp;· JavaScript&nbsp;· Kotlin&nbsp;· PHP&nbsp;· SQL<br>
-**Tools:** React&nbsp;· React&nbsp;Native&nbsp;· Expo&nbsp;· MySQL&nbsp;· Firebase&nbsp;· Git&nbsp;· Docker&nbsp;· Linux
+**Tools:** React&nbsp;· React&nbsp;Native&nbsp;· Expo&nbsp;· Jetpack&nbsp;Compose&nbsp;· MySQL&nbsp;· Firebase&nbsp;· Git&nbsp;· Docker&nbsp;· Linux
 
 ### Contact
 

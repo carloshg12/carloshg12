@@ -1,62 +1,33 @@
-### Hi there 👋
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/carloshg12/carloshg12/main/banner.PNG" alt="Carlos Hernandez" />
-</h1>
+<p><img src="header.png" alt="Carlos Hernández García · Junior Full Stack Developer" width="100%"></p>
 
-## About Me  
-I'm Carlos, a **Computer Engineering student at UJI** and a **multi-platform application developer** passionate about building intuitive and efficient software solutions.  
+Hi, I'm Carlos, a third-year Computer Engineering student at Universitat Jaume I in Castellón, Spain. I learn by building real projects, from the mobile app to the server behind it.
 
-- 🎓 Currently studying **Computer Engineering at UJI**.  
-- 🔭 Working on mobile and web applications.  
-- 🌱 Expanding my expertise in **React Native**, **React**, and **backend development**.  
+### SplitEasy
 
+[SplitEasy](https://spliteasy.es) is an app to split shared expenses with friends, on trips or with roommates. I designed and built it myself, and it's live on [Google Play](https://play.google.com/store/apps/details?id=com.spliteasy.app) and the [App Store](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253).
 
----
+- **App:** React Native with Expo, for Android and iOS
+- **Backend:** REST API in PHP with MySQL
+- **Sign-in:** Firebase Authentication
 
-## 🚀 Featured Project: **SplitEasy - Gastos Compartidos**
-**SplitEasy** is a cross-platform application available for Android and iOS, designed to simplify shared expense management among friends, family, or roommates. Developed using **React Native** for the frontend and **PHP** for the backend, it offers an intuitive and functional user experience.
+The source code is private.
 
-### Key Features:
-- **Group Management**: Create groups to track shared expenses for trips, activities, or living arrangements.
-- **Automatic Expense Splitting**: Transparent and automatic division of expenses.
-- **Custom Notifications**: Keep users informed with personalized notifications.
-- **Light/Dark Mode**: Enhanced visual comfort with theme options.
-- **Advanced Editing**: Flexible expense adjustments with a focus on security and privacy.
+### Also on my GitHub
 
-### Technologies Used:
-- **Frontend**: React Native, JavaScript, TypeScript.
-- **Backend**: PHP, MySQL.
-- **Tools**: PhpMyAdmin, Firebase (for notifications), Git.
+- **[Pokedex_Android](https://github.com/carloshg12/Pokedex_Android):** Android app in Kotlin with MVVM, Hilt and Retrofit that also works offline.
 
-### Links:
-🔗 [Visit the Website](https://spliteasy.es) | 📱 [Download on App Store](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253) | 🤖 [Get it on Google Play](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253)  
+### Background
 
----
+- **Full Stack Developer intern** at JC INFORMÀTICS (2024): web and mobile apps with React, React Native and PHP, working directly with clients.
+- **Multiplatform App Development (DAM)** at IES El Caminàs, final grade 9.5/10.
 
-## Skills
-- **Programming Languages**: TypeScript, JavaScript, Kotlin, PHP, Java.
-- **Frameworks & Libraries**: React, React Native, Firebase.
-- **Databases**: MySQL, MariaDB, PostgreSQL.
-- **Other**: Cross-platform development, UI/UX design, Push Notifications.
+### Tech
 
----
+**Languages:** Java&nbsp;· Python&nbsp;· JavaScript&nbsp;· Kotlin&nbsp;· PHP&nbsp;· SQL<br>
+**Tools:** React&nbsp;· React&nbsp;Native&nbsp;· Expo&nbsp;· MySQL&nbsp;· Firebase&nbsp;· Git&nbsp;· Docker&nbsp;· Linux
 
-## My GitHub Stats
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=carloshg12&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshg12&layout=compact&theme=radical&card_width=400" />
-  </a>
-</div>
----
+### Contact
 
-## 📫 Contact
-- [Email](mailto:carloscharlyhg0@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/carlos-hernandez-27342924b/)
-<!-- - [Twitter](https://twitter.com/carloshg12) -->
+Open to junior developer roles: remote, or on-site and hybrid in Castellón.
 
----
-
-**Thanks for visiting my profile!** Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 😄
+[LinkedIn](https://www.linkedin.com/in/carlos-hernandez-27342924b/) · [carloscharlyhg0@gmail.com](mailto:carloscharlyhg0@gmail.com)

@@ -14,6 +14,7 @@ The source code is private, but the [SplitEasy repo](https://github.com/carloshg
 
 ### Also on my GitHub
 
+- **[Revender](https://github.com/carloshg12/Revender-overview):** a system I built with Claude Code that finds the profitable lots in online liquidation auctions. It prices every item with AI and works out the highest bid that still leaves a profit. Python, FastAPI, PostgreSQL, React and the Claude API, in real use on my own server.
 - **[Pokedex_Android](https://github.com/carloshg12/Pokedex_Android):** Android app in Kotlin and Jetpack Compose with MVVM, Hilt and Retrofit (PokéAPI) that also works offline.
 
 ### Background
@@ -24,7 +25,7 @@ The source code is private, but the [SplitEasy repo](https://github.com/carloshg
 ### Tech
 
 **Languages:** Java&nbsp;· Python&nbsp;· JavaScript&nbsp;· Kotlin&nbsp;· PHP&nbsp;· SQL<br>
-**Tools:** React&nbsp;· React&nbsp;Native&nbsp;· Expo&nbsp;· Jetpack&nbsp;Compose&nbsp;· MySQL&nbsp;· Firebase&nbsp;· Git&nbsp;· Docker&nbsp;· Linux
+**Tools:** React&nbsp;· React&nbsp;Native&nbsp;· Expo&nbsp;· Jetpack&nbsp;Compose&nbsp;· MySQL&nbsp;· Firebase&nbsp;· Git&nbsp;· Docker&nbsp;· Linux&nbsp;· Claude&nbsp;Code
 
 ### Contact
 

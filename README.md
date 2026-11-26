@@ -4,13 +4,13 @@ Hi, I'm Carlos, a third-year Computer Engineering student at Universitat Jaume I
 
 ### SplitEasy
 
-[SplitEasy](https://spliteasy.es) is an app to split shared expenses with friends, on trips or with roommates. I designed and built it myself, and it's live on [Google Play](https://play.google.com/store/apps/details?id=com.spliteasy.app) and the [App Store](https://apps.apple.com/es/app/spliteasy-gastos-compartidos/id6502877253).
+[SplitEasy](https://spliteasy.es) is an app to split shared expenses with friends, on trips or with roommates. I designed and built it myself, and it's live on [Google Play](https://play.google.com/store/apps/details?id=com.spliteasy.app) and the [App Store](https://apps.apple.com/app/id6502877253).
 
 - **App:** React Native with Expo, for Android and iOS
 - **Backend:** REST API in PHP with MySQL
 - **Sign-in:** Firebase Authentication
 
-The source code is private.
+The source code is private, but the [SplitEasy repo](https://github.com/carloshg12/SplitEasy) has screenshots, the full feature list and how it's built.
 
 ### Also on my GitHub
 
